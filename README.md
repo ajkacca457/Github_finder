@@ -1,7 +1,7 @@
 # Github_finder  
 <h4>This is an app that get profiles of github users</h4>
 
-This is a javascript project to create a movie booking app that allows user to book number of seat, choose the movie that they want to watch and also calculate the total price of tickets based on number of people.
+This is a javascript project to create an app that gets github user data and display it in details. This app is helpful to find out any github user by username. It displays accumulated information of the searched user.
 
 <img src="picture1.PNG" alt="projectimg">
 
@@ -14,6 +14,8 @@ Html
 CSS
 
 Javascript
+
+Async Await
 
 <h2>Live Demo</h2>
 https://combinationlock.netlify.app/
