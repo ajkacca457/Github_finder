@@ -1,1 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Slabo+27px&display=swap');
 
+
+body {
+  font-family: 'Slabo 27px', serif;
+  background-color: rgba(207, 207, 207, 1);
+}
+
+h1 {
+  text-align: center;
+  font-size: 130%;
+  width: 50%;
+  margin: auto;
+}
+
+
+input:focus {
+  outline: none;
+}
+
+button:focus {
+  outline: none;
+}
