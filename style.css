@@ -6,6 +6,7 @@ body {
   background-color: rgba(207, 207, 207, 1);
 }
 
+
 h1 {
   text-align: center;
   font-size: 130%;
@@ -20,4 +21,11 @@ input:focus {
 
 button:focus {
   outline: none;
+}
+
+.alert{
+  display: none;
+}
+.alert.show{
+  display: block;
 }
