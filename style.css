@@ -29,3 +29,26 @@ button:focus {
 .alert.show{
   display: block;
 }
+.output{
+  display: none;
+  border: 1px solid white;
+}
+.output.show{
+  display: block;
+}
+
+.proimg{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 2% 0;
+}
+
+.info {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 90%;
+  margin: auto;
+
+}
