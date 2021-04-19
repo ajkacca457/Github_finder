@@ -3,7 +3,7 @@
 
 This is a javascript project to create an app that gets github user data and display it in details. This app is helpful to find out any github user by username. It displays accumulated information of the searched user.
 
-<img src="picture1.PNG" alt="projectimg">
+<img src="interface1.PNG" alt="projectimg">
 
 </h1>Additional description about the project and its features.</h1>
 
